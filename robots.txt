@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /page5692418.html
+Disallow: /footer
+Disallow: /page5700954.html
+Disallow: /header1
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://w30.webcloner.ru/sitemap.xml
+Host: w30.webcloner.ru
